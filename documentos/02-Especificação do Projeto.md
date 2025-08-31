@@ -153,10 +153,3 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
   <img src="documentos\img\diagramaclasse.jpg"
     <figcaption>Figura 2 - Relação entre tabelas</figcaption>
 </figure>
-
-# Para banco de dados relacional:
-- Apresentar o MER (Modelo Entidade-Relacionamento)
-- Apresentar o Projeto Físico da Base de Dados (estrutura das tabelas, tipos de dados, chaves primárias e estrangeiras)
-# Para banco de dados NoSQL:
-Apresentar o Modelo da Base de Dados (estrutura dos documentos, coleções, ou grafos, conforme o tipo de NoSQL utilizado)
-
